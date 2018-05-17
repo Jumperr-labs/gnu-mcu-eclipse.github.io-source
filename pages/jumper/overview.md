@@ -20,7 +20,7 @@ With Jumper you can:
 
 ## Quicklinks
 
-If you already know the general facts about QEMU, you can directly skip to:
+Jumper Virtual Lab requires signing up for a free (forever) account.
 
 * [Create an account](https://vlab.jumper.io)
 * [Jumper Virtual Lab Install](https://docs.jumper.io/docs/install.html)
